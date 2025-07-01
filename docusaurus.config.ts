@@ -15,16 +15,16 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://saisubham.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/blog/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'saisubham', // Usually your GitHub org/user name.
+  organizationName: 'saisubham.github.io', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
-  deploymentBranch: 'main', // The branch that GitHub pages will deploy from.
+  // deploymentBranch: 'main', // The branch that GitHub pages will deploy from.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
